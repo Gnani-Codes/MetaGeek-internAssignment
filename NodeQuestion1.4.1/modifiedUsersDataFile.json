@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Gnanendra Gariminti",
+    "posts": [
+      {
+        "id": 100,
+        "title": "First Post",
+        "content": "This is the content of the first post."
+      },
+      {
+        "id": 101,
+        "title": "Second Post",
+        "content": "This is the content of the second post."
+      }
+    ],
+    "totalPosts": 2
+  },
+  {
+    "id": 2,
+    "name": "Varsha Vox",
+    "posts": [
+      {
+        "id": 200,
+        "title": "Hello World",
+        "content": "Just saying hello to the world!"
+      }
+    ],
+    "totalPosts": 1
+  },
+  {
+    "id": 3,
+    "name": "Bharath Reddy",
+    "posts": [],
+    "totalPosts": 0
+  }
+]
