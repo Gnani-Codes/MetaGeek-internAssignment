@@ -8,7 +8,7 @@ Master branch consists of,
  (1) Backend consists of server.js where i have created a server using express and it alos consists "blogApplication.db" file which was queried to   
   contain the data in SQL.
  To run the initiate the server, direct to /Backend and type nodemon server.js. server will be launched. 
- It also has server.http file to test the APIs created.
+ It also contains server.http file to test the APIs created.
  The server listens to "http://localhost:5000/".
 
  (2) Frontend consists of react code for the website, i have intigrated both the frontend and backend using  "concurently" module.
@@ -21,3 +21,5 @@ NOTE: if we dont run the server, the client will not fetch thee data from server
 (4) This folder contains solution for Nodejs 1.4.1, to run it direct to /NodeQuestion1.4.1 and type "node index.js". Output will be logged in termminal. 
 For question 1.4.2, to run it direct to /NodeQuestion1.4.2 and type "node index.js". 
 -The API will fetch the data from "http://jsonplaceholder.typicode.com/users", and logs it .(if no error)
+
+(3) This folder contains solutions to those general programming questions.
